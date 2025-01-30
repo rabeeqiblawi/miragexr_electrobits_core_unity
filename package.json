@@ -1,0 +1,25 @@
+{
+  "name": "miragexr-electrobits-core-unity",
+  "version": "0.7.1",
+  "description": "This unity package is relient on the arduino library MirageXR which helps developers and students build and interact with virtual electronics.",
+  "main": "Runtime/MyUnityPackage/Scripts/MyPackageClass.cs",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "unity",
+    "package",
+    "ESP32",
+    "Electronics",
+    "Arduino",
+    "MirageXR",
+    "Mixed Reality"
+  ],
+  "author": {
+    "name": "Rabee Qiblawi",
+    "email": "rabeeqiblawi@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

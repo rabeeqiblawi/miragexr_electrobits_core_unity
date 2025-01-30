@@ -1,0 +1,10 @@
+{
+  "name": "MyUnityPackage",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "versionDefines": [],
+  "rootNamespace": "MyUnityPackage"
+}
