@@ -39,7 +39,7 @@ namespace MirageXR.ElectroBits
         public string textValue;
     }
 
-    public class VirtualPinsManager : MirageXRBase
+    public class VirtualPinsManager : MonoBehaviour
     {
         public List<PinData> Pins;
         [SerializeField] int _maxPwm;
